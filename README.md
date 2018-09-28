@@ -12,7 +12,7 @@ de publier des articles courts de 200 caractères maximum.
 6. [Création des pages](#dev)
     * [Planning développement](#planning)
     * [Développement des pages](#dev-pages)
-7. [Techno](#techo)
+7. [Techno](#techno)
 8. [Contraintes](#contraintes)
 9. [A rendre](#a-rendre)
 10. [Ressources](#ressources)
@@ -81,7 +81,7 @@ Vous pouvez utiliser un logiciel de modélisation (Mysql WorkBench).
 
 > **Avant de passer à l'étape suivante : expliquer les différentes instructions du script au facilitateur**
 
-# <a name="maquette"></a>Maquettes (1h30)
+# <a name="maquettes"></a>Maquettes (1h30)
 
 Réaliser les maquettes fonctionnelles des différentes pages. Vos maquettes doivent être ergonomiques. Vous devez faire apparaître les interactions
 utilisateurs ainsi que les liens entre les différentes pages
